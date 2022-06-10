@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\TurkogluTugla.Properties.Resources.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.Ana_TuglaSatis.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.KullanıcıArayuzu.MusteriFormu.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.KullanıcıArayuzu.OdemeFormu.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.KullanıcıArayuzu.SatıislarFormu.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.KullanıcıArayuzu.MalzemelerFormu.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.KullanıcıArayuzu.Müşteriler.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.KullanıcıArayuzu.Ürünler.resources
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\KeremGaleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\TurkogluTugla.exe
+C:\Users\User\Desktop\TurkogluTugla\TurkogluTugla\TurkogluTugla\obj\Debug\TurkogluTugla.pdb
